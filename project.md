@@ -13,6 +13,7 @@ This project tackles real-world supply chain data to uncover inefficiencies in i
 ## Problem Statement
 
 Supply chain mismanagement can lead to customer dissatisfaction, increased costs, and lost revenue. This project uses supply chain data provided by *Her Data Project* to analyze:
+
 1.What is the ratio of supply to demand across different regions or product categories?
 
 2.Which locations are consistently overstocked or understocked?
