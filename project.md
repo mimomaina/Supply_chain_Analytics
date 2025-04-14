@@ -13,14 +13,19 @@ This project tackles real-world supply chain data to uncover inefficiencies in i
 ## Problem Statement
 
 Supply chain mismanagement can lead to customer dissatisfaction, increased costs, and lost revenue. This project uses supply chain data provided by *Her Data Project* to analyze:
+1.What is the ratio of supply to demand across different regions or product categories?
 
-- Inventory levels
-- Shipment patterns
-- Demand vs supply mismatches
+2.Which locations are consistently overstocked or understocked?
+
+3.Where and why are shipment delays occurring most frequently?
+
+4.Are there trends in inventory mismatches over time (e.g., seasonality)?
+
+5.How can the company optimize stock levels to reduce waste and meet demand more effectively?
 
 The insights from this analysis will help business stakeholders make structural changes and improve decision-making.
 
-📂 [Dataset Link](https://herdataproject.gumroad.com/l/supply-chain)
+[Dataset Link](https://herdataproject.gumroad.com/l/supply-chain)
 
 ---
 
