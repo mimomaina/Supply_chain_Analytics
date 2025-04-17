@@ -18,19 +18,17 @@ The project utilizes three main CSV files:
 
 ## Key Business Questions
 
-1. Which products are at risk of stockout?
-2. Are we fulfilling orders in a timely manner?
-3. What are the fulfillment days per product and per channel?
-4. How many orders do we receive monthly?
-5. Which product sells the most?
-6. What is the total order quantity per product?
-7. What regions experience the longest shipment delays?
-8. What is the correlation between shipment delays and inventory cost?
+1.How many customers are returning customers?
+2.Which product categories are most popular?
+3.How long does it take to ship products from the warehouse to the customer,on average?
+4.Which is the least most effective shipping method?
+5.What are the average shipping days for each customer market?
+
 
 ## Tools Used
 
 - Tableau (Data visualization and dashboard design)
-- Excel (Preliminary data cleaning and transformation)
+- SQL (Preliminary data cleaning,transformation and data manipulation)
 - GitHub (Version control and project documentation)
 
 ## Key Findings
