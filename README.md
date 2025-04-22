@@ -64,6 +64,7 @@ The project utilizes three main CSV files:
 ## Dashboard
 
 A Tableau dashboard was created to visualize customer behavior, shipment delays, regional trends, and product sales performance. It is designed to provide stakeholders with clear and actionable insights at a glance.
+![image](https://github.com/user-attachments/assets/5473d262-965e-45e0-9cce-c8a9a13aa0d1)
 
 ## Conclusion
 
